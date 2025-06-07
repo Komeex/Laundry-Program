@@ -37,3 +37,7 @@ C:\xampp\htdocs\Laundry Management
 CATATAN:
 - Pastikan Apache dan MySQL dalam keadaan aktif.
 - Pastikan nama database sesuai dengan yang ada di file koneksi.
+
+
+untuk panduan penggunaan kalian bisa download buku panduan di bawah ini 
+https://drive.google.com/drive/folders/1k_mdGO800idX_ddoozIGF1Np5l6cP4Zt?usp=sharing
