@@ -40,4 +40,4 @@ CATATAN:
 
 
 untuk panduan penggunaan kalian bisa download buku panduan di bawah ini 
-https://drive.google.com/drive/folders/1k_mdGO800idX_ddoozIGF1Np5l6cP4Zt?usp=sharing
+https://drive.google.com/drive/folders/1xfO0aObG67DGY0YlImWauTAB8_rf-GLj?usp=sharing
